@@ -1,0 +1,191 @@
+D:\WeightLesss\WeightLess\WeightLess\obj\Debug\WeightLess.csprojAssemblyReference.cache
+D:\WeightLesss\WeightLess\WeightLess\obj\Debug\WeightLess.csproj.CoreCompileInputs.cache
+D:\WeightLesss\WeightLess\WeightLess\bin\Bot Application.dll.config
+D:\WeightLesss\WeightLess\WeightLess\bin\Bot Application.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Bot Application.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\Autofac.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Chronic.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Connector.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Logging.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Tokens.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Rest.ClientRuntime.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Newtonsoft.Json.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\System.Net.Http.Formatting.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\System.Web.Http.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\System.Web.Http.WebHost.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\Autofac.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.Autofac.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Bot.Connector.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Logging.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Logging.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Tokens.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Tokens.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.Rest.ClientRuntime.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\Newtonsoft.Json.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\System.Net.Http.Formatting.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\System.Web.Http.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\System.Web.Http.WebHost.xml
+D:\WeightLesss\WeightLess\WeightLess\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\el\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\WeightLesss\WeightLess\WeightLess\obj\Debug\WeightLess.csproj.CopyComplete
+D:\WeightLesss\WeightLess\WeightLess\obj\Debug\Bot Application.dll
+D:\WeightLesss\WeightLess\WeightLess\obj\Debug\Bot Application.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Bot Application.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Bot Application.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Autofac.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Chronic.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Connector.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Newtonsoft.Json.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.Net.Http.Formatting.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.Web.Http.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.Web.Http.WebHost.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Autofac.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Bot.Connector.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\Newtonsoft.Json.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.Net.Http.Formatting.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.Web.Http.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\System.Web.Http.WebHost.xml
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\obj\Debug\WeightLess.csprojAssemblyReference.cache
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\obj\Debug\WeightLess.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\obj\Debug\WeightLess.csproj.CopyComplete
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\obj\Debug\Bot Application.dll
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\obj\Debug\Bot Application.pdb
+C:\Users\Andrey\Desktop\WeightLess\WeightLess\bin\AdaptiveCards.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Bot Application.dll.config
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Bot Application.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Bot Application.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\AdaptiveCards.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Autofac.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Chronic.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Builder.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Connector.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Newtonsoft.Json.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.Net.Http.Formatting.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.Web.Http.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.Web.Http.WebHost.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Autofac.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Builder.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Builder.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Builder.Autofac.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Bot.Connector.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Logging.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Tokens.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\Newtonsoft.Json.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.Net.Http.Formatting.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.Web.Http.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\System.Web.Http.WebHost.xml
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\el\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\obj\Debug\WeightLess.csprojAssemblyReference.cache
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\obj\Debug\WeightLess.csproj.CoreCompileInputs.cache
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\obj\Debug\WeightLess.csproj.CopyComplete
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\obj\Debug\Bot Application.dll
+C:\Users\zibum\Максим\Домашние Задания\WeightLess\WeightLess-master\WeightLess\obj\Debug\Bot Application.pdb
+D:\WeightLesss\WeightLess\WeightLess\bin\AdaptiveCards.dll
